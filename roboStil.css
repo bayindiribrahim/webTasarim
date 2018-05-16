@@ -1,0 +1,363 @@
+*{
+	background-color:#f2f2ff;
+}
+
+#logo{
+	float:left;
+	height:150px;
+	width:250px;
+	background-image:url("logo.png");
+	background-size:100% 100%;
+	margin-left:0px;
+	margin-top:0px;
+	border-radius:5px;
+	border-style:solid;
+	border-color:#e0e0d1;
+}
+
+#ustMenu{
+	height:65px;
+	width:700px;
+	margin-top:15px;
+	margin-left:260px;
+	background-color:#0fc7f0;
+	border-radius:10px;
+	border-style:solid;
+}
+#anasayfa{
+	float:left;
+	margin-left:40px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#anasayfa:hover{
+	float:left;
+	margin-left:40px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:orange;
+	border-radius:5px;
+	border-style:dotted;
+}
+#kampanya{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#kampanya:hover{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:orange;
+	border-radius:5px;
+	border-style:dotted;
+}
+#siparis{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#siparis:hover{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:orange;
+	border-radius:5px;
+	border-style:dotted;
+}
+#fikir{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#fikir:hover{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:orange;
+	border-radius:5px;
+	border-style:dotted;
+}
+#hakkimizda{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#hakkimizda:hover{
+	float:left;
+	padding-left:35px;
+	margin-top:20px;
+	background-color:#0fc7f0;
+	color:orange;
+	border-radius:5px;
+	border-style:dotted;
+}
+#satistakiUrunler{
+	margin-left:0px;
+	margin-top:90px;
+	height:70px;
+	width:230px;
+	background-color:#0fc7f0;
+	border-radius:10px;
+	border-style:solid;
+	border-color:black;
+}
+#satistaki{
+	padding-left:65px;
+	color:black;
+	background-color:#0fc7f0;
+	margin-top:10px;
+}
+#urunler{
+	padding-left:65px;
+	color:black;
+	background-color:#0fc7f0;
+	margin-top:-12px;
+}
+#altMenu{
+	margin-left:0px;
+	margin-top:10px;
+	height:330px;
+	width:230px;
+	background-color:#0fc7f0;
+	border-radius:10px;
+	border-style:solid;
+	border-color:black;
+}
+#robo1{
+	margin-top:12px;
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#robo1:hover{
+	margin-top:12px;
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:orange;
+}
+#robo2{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#robo2:hover{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:orange;
+}
+#robo3{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#robo3:hover{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:orange;
+}
+#robo4{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#robo4:hover{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:orange;
+}
+#robo5{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#robo5:hover{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:orange;
+}
+#robo6{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#robo6:hover{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:orange;
+}
+#robo7{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:white;
+}
+#robo7:hover{
+	padding-left:15px;
+	background-color:#0fc7f0;
+	color:orange;
+}
+#album{
+	margin-left:260px;
+	margin-top:-500px;
+	height:200px;
+	width:700px;
+	background-image:url("resim.png");
+	background-size:100% 100%;
+	border-radius:3px;
+	border-style:solid;
+	border-color:black;
+}
+#siparisVer{
+	height:90px;
+	width:350px;
+	margin-left:260px;
+	margin-top:25px;
+	background-color:#0fc7f0;
+	border-radius:10px;
+	border-style:dashed;
+	border-color:black;
+}
+#kolayca{
+	margin-top:6px;
+	padding-left:30px;
+	background-color:#0fc7f0;
+}
+#kolaycaYazi{
+	margin-top:-10px;
+	padding-left:30px;
+	background-color:#0fc7f0;
+}
+#kolaycaYazi2{
+	margin-top:-12px;
+	padding-left:30px;
+	background-color:#0fc7f0;
+}
+#fikrimVar{
+	height:90px;
+	width:330px;
+	margin-left:630px;
+	margin-top:-97px;
+	background-color:#0fc7f0;
+	border-radius:10px;
+	border-style:dashed;
+	border-color:black;
+}
+#fikrin{
+	margin-top:6px;
+	padding-left:30px;
+	background-color:#0fc7f0;
+}
+#fikrinYazi{
+	margin-top:-10px;
+	padding-left:30px;
+	background-color:#0fc7f0;
+}
+#fikrinYazi2{
+	margin-top:-12px;
+	padding-left:30px;
+	background-color:#0fc7f0;
+}
+#giris{
+	margin-left:260px;
+	color:#0fc7f0;
+}
+#isimKutu{
+	margin-left:420px;
+	margin-top:-55px;
+	height:30px;
+	width:150px;
+	background-color:#f2f2ff;
+}
+#isim{
+	margin-left:-10px;
+	margin-top:2px;
+	padding-top:0px;
+	height:20px;
+}
+#sifreKutu{
+	margin-left:580px;
+	margin-top:-30px;
+	height:30px;
+	width:150px;
+	background-color:#f2f2ff;
+}
+#sifre{
+	margin-left:0px;
+	margin-top:2px;
+	padding-top:0px;
+	height:20px;
+}
+#buttonKutu{
+	margin-left:700px;
+	margin-top:-26px;
+	height:30px;
+	width:150px;
+	background-color:#f2f2ff;
+}
+#gir{
+	height:26px;
+	width:50px;
+	margin-left:50px;
+	margin-top:-50px;
+	background-color:orange;
+	color:#0033cc;
+}
+#buttonKutu2{
+	margin-left:750px;
+	margin-top:-30px;
+	height:30px;
+	width:150px;
+	background-color:#f2f2ff;
+}
+#kayit{
+	height:26px;
+	width:100px;
+	margin-left:60px;
+	margin-top:-40px;
+	background-color:orange;
+	color:#0033cc;
+}
+#takip{
+	margin-left:260px;
+	width:150px;
+	background-color:#f2f2ff;
+}
+#face{
+	height:50px;
+	width:50px;
+	background-image:url("facebook.png");
+	background-size:100% 100%;
+	margin-left:260px;
+}
+#twit{
+	height:50px;
+	width:50px;
+	background-image:url("twitter.png");
+	background-size:100% 100%;
+	margin-left:320px;
+	margin-top:-50px;
+}
+#insta{
+	height:50px;
+	width:50px;
+	background-image:url("instagram.png");
+	background-size:100% 100%;
+	margin-left:380px;
+	margin-top:-50px;
+}
+#sirket{
+	margin-left:910px;
+	margin-top:-10px;
+}
